@@ -5,4 +5,10 @@ take me on1
 someboy me
 
 
+<<<<<<< Updated upstream
 mot khi da yeu
+=======
+mot khi
+
+sanh
+>>>>>>> Stashed changes
