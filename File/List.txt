@@ -1,7 +1,5 @@
 swallow your price
 
-<<<<<<< HEAD
-baking me
-=======
-take me on
->>>>>>> 31a10e78f2bcf27af4834555d139ba5cc0b31e83
+take me on1
+
+someboy me
